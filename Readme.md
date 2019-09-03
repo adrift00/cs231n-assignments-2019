@@ -1,1 +1,1 @@
-完成cs231n 2019的三次assignments。
+学习cs231的视频课程并完成了cs231n 2019的三次assignments。
