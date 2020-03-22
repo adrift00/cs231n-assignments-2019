@@ -1,3 +1,1 @@
-
-Notes and assignments for Stanford CS class [CS231n: Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/)
-
+学习cs231的视频课程并完成了cs231n 2019的三次assignments。
